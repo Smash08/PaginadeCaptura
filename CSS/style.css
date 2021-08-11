@@ -66,3 +66,22 @@ select{
     background-position-x:calc(100% - 10px) ;
     background-position-y: center;
 }
+footer{
+    background-color: rgb(29, 29, 29);
+    padding: 40px;
+    text-align: center;
+}
+.picture{
+    width: 160px;
+}
+.description{
+    display: inline-block;
+    text-align: justify;
+    color: white;
+    max-width: 40%;
+    margin-left: 40px;
+
+}
+.description p, .description h3{
+    margin-bottom: 20px;
+}
